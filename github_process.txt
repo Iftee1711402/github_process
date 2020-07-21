@@ -1,0 +1,26 @@
+procedure for adding files to a new repository on github using git:
+-------------------------------------------------------------------
+
+go to github.com
+
+add new repository
+
+name the new repository
+
+cd desktop
+
+mkdir "new repo name, same as on github"
+
+cd "new repo name"
+
+git init
+
+git add "filename.___"
+
+git commit -m "a meaningful message"
+
+copy and paste the second part of the github link provided
+
+refresh the github page 
+
+that's it
